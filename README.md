@@ -1,1 +1,2 @@
 # Sample Project
+This project was made in CS 2351.
